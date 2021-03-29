@@ -1,0 +1,76 @@
+
+.CardContainer {
+    /* padding: 5px 0px 10px 20px; */
+    display: flex;
+
+}
+.CardContainer img {
+    width: 95px;
+    height: 95px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.CardContainer div:first-of-type {
+    flex-direction: column;
+}
+
+.CardContainer h2 {
+    padding-top: 10px;
+}
+
+.CardContainer p:nth-child(2)  {
+    color: #6c757d;
+    font-size: .875rem;
+    
+}
+
+.CardContainer p:nth-child(3)  {
+    padding: 10px 0px 0px 2px;
+    color: rgb(112, 89, 65);
+    font-size: 1.5rem;
+}
+
+.divider {
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    height: 0;
+    overflow: visible;
+    box-sizing: content-box;
+}
+
+.PurchaseOptions{
+    display: flex;
+    flex-flow: row ;
+    justify-content: flex-end;
+    margin-left: auto;
+    padding-right: 15px;
+    text-align: center;
+    align-items: flex-start;
+
+}
+
+.PurchaseOptions * {
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.PurchaseOptions span {
+    align-items: baseline;
+    padding-top: 30%;
+}
+
+.PurchaseOptions button {
+    padding: 25%;    
+    border: 0;
+
+}
+.PurchaseOptions button:focus{
+    outline: transparent;
+}
+.PurchaseOptions button:active{
+    color: darkblue;
+}

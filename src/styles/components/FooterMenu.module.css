@@ -1,0 +1,40 @@
+
+.container * {
+    background-color: rgba(151, 143, 121, 0.904);
+}
+
+.container {
+    height: 65px;
+    background-color: rgba(151, 143, 121);
+    border-radius: 9px 9px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+.btnStyle{
+    display: flex;
+    height: 70px;
+    width: 70px;
+    flex-direction: column;
+    padding:15px 0px ;
+    align-items: center;    
+    border: 0;
+}
+
+.container button:focus{
+    outline: transparent;
+    color: white;
+}
+
+/* .link {
+    
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 0;
+    flex-direction: column;
+    display: flex;
+
+} */

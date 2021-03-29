@@ -1,0 +1,38 @@
+
+.container {
+   overflow: visible;
+   
+}
+.container input {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    line-height: 2.5;
+    border-radius: .3rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
+    overflow: visible;
+    margin: 0px 0px 0px 5%;
+    top: -30px;
+    border: 0;
+    
+    padding: 10px;
+}
+/* .container div {
+    position: absolute;
+} */
+
+.container input::placeholder {
+    padding-left: 15px;
+    }
+
+/* .container i {
+	box-sizing: border-box;
+	outline: none;
+    line-height: 2;
+    position: relative;
+	top: 16.7%;
+	color: #555;
+	right: 8%;
+} */
+

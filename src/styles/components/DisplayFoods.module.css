@@ -1,0 +1,30 @@
+
+.container {
+    /* background-color: rgba(210, 124, 244, 0.5); */
+    padding: 1.5rem;
+}
+
+.containerFoodTypes {
+    display: flex;
+    flex-direction: row;
+    border-top:1px solid rgb(232, 232, 232);
+    border-bottom:1px solid rgb(232, 232, 232);
+    position: relative;
+    top: -30px;
+}
+
+.containerFoodTypes button {
+    padding: 0px 18px 0px 7px;
+    font-size: 15px;;
+    font-weight: bold;
+    color: rgb(151, 143, 121) ;
+    line-height: 4;
+    font-family: sans-serif;
+    border: 0;
+    display: inline-block;
+}
+
+
+.firstName{
+    margin-left: 5%;
+}

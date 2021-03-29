@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Carne de Sol na Nata",
+        "description": "VERY BIG ,VERY NICE Carne de Sol na Nata,hmm gotoso",
+        "price": "55.99",
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/5c/27/b5/carne-de-sol-na-nata.jpg",
+        "category": "meats",
+        "id": "0"
+
+    },
+    {
+        "name": "Batatas fritas",
+        "description": "FRENCH FRIES FROM BRASIL MADE IN CHINATOWN",
+        "price": "15.99",
+        "imgUrl": "https://www.cervejablackprincess.com.br/wp-content/uploads/2017/09/batata-frita-580x290.jpg",
+        "category": "meats",
+        "id": "1"
+
+    },
+    {
+        "name": "Salada de frutas",
+        "description": "saladeeenha de frutas. Contem frutas ",
+        "price": "20.00",
+        "imgUrl": "https://www.acasaencantada.com.br/wp-content/uploads/2019/10/salada-de-frutas.jpg",
+        "category": "salads",
+        "id": "2"
+
+    },
+    {
+        "name": "File a Parmegiana",
+        "description": "VERY BIG ,VERY NICE File a Parmegiana",
+        "price": "40.00",
+        "imgUrl": "https://d37k6lxrz24y4c.cloudfront.net/v2/pt-br/e9dc924f238fa6cc29465942875fe8f0/f379a3ca-0ab7-48fb-b4dc-e4f1f8bbc36a-600.jpg",
+        "category": "meats",
+        "id": "3"
+
+    },
+    {
+        "name": "Paella and Lobster",
+        "description": "Seafood Paella and Lobster, two seafood dishes made by Sanji.",
+        "price": "55.80",
+        "imgUrl": "foods/paella_and_lobster.png",
+        "category": "specials",
+        "id": "4"
+
+    },
+    {
+        "name": "Sopa de Hormônios com carne de Porco do Mar",
+        "description": "海 ブ タ 肉 入 り ホ ル モ ン ス ー プ Umibuta-niku iri Horumon Supu?",
+        "price": "42.20",
+        "imgUrl": "https://img.cavally.org/img/zhen-2019/kitajskij-sup-na-puti-k-vostochnoj-mudrosti-recepti-kitajskih-supov-s-lapshoj-risom-moreproduktami-pomi.jpg",
+        "category": "specials",
+        "id": "5"
+
+    },
+    {
+        "name": "Churrasco de Animal do Mar",
+        "description": "churraskin maroto",
+        "price": "21.80",
+        "imgUrl": "https://media.istockphoto.com/photos/nice-seafood-barbecue-grilled-squid-on-skewer-picture-id854320314",
+        "category": "meats",
+        "id": "6"
+
+    },
+    {
+        "name": "Onigiri ",
+        "description": "(お に ぎ り Onigiri?), Também conhecido como Omusubi, é um japonês (fibra curta",
+        "price": "5.80",
+        "imgUrl": "https://preview.redd.it/afe8wegj1tg51.png?width=1434&format=png&auto=webp&s=d610ea9f74193b0409e40e146751328e54aecad5",
+        "category": "specials",
+        "id": "7"
+
+    },
+    {
+        "name": "Rum Clement",
+        "description": "(ラ ム Ramu?)",
+        "price": "9.80",
+        "imgUrl": "https://static.wikia.nocookie.net/onepiece/images/6/61/Rum.png/revision/latest/scale-to-width-down/220?cb=20151208175510&path-prefix=pt",
+        "category": "drinks",
+        "id": "8"
+
+    },
+    {
+        "name": "Prato Executivo 01",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "9.80",
+        "imgUrl": "https://www.casadaesfihaamericana.com.br/painel/dashboard/uploads/galeria/imagens/imagem_galeria__casa_da_esfiha__1__1472480804__2908162016092644.jpg",
+        "category": "plates",
+        "id": "9"
+
+    },
+    {
+        "name": "Prato Executivo 02",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "13.80",
+        "imgUrl": "https://curtamais.com.br/uploads/conteudos/fbfc4a6da04bd254800e59ae36394aca.jpg",
+        "category": "plates",
+        "id": "10"
+
+    },
+    {
+        "name": "Prato Executivo 03",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "15.80",
+        "imgUrl": "https://media.gazetadopovo.com.br/bomgourmet/2019/09/t-bone-cartolas-b80bbda0.jpg",
+        "category": "plates",
+        "id": "11"
+
+    },
+    {
+        "name": "Caipirinha",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "10.80",
+        "imgUrl": "https://img.itdg.com.br/images/recipes/000/128/825/319875/319875_original.jpg",
+        "category": "drinks",
+        "id": "12"
+
+    },
+    {
+        "name": "Fino Grapete",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "4.20",
+        "imgUrl": "https://s.cornershopapp.com/product-images/2940108.jpg?versionId=K0O5Oft0xim3_34L2vQhrrRfd2h2EGtD",
+        "category": "drinks",
+        "id": "13"
+
+    },
+    {
+        "name": "Dope Salad",
+        "description": "lorem impsum lorem impsum lorem impsum",
+        "price": "15.80",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxF8zoapCrPRbSo7arBWsdqbSKk7pxhbUu8vGhO6cjr4_hGOP3H1xMZjdI1YWhYpdPHU&usqp=CAU",
+        "category": "salads",
+        "id": "14"
+
+    },
+    {
+        "name": "Sense of Dopamina",
+        "description": "... is one of the best side dishes to add to just about every meal. Delicious fresh vegetables ...",
+        "price": "9.99",
+        "imgUrl": "https://i0.wp.com/www.missinthekitchen.com/wp-content/uploads/2020/03/Everyday-Salad-Image-H-scaled.jpg?fit=735%2C490&ssl=1",
+        "category": "salads",
+        "id": "15"
+
+    },
+    {
+        "name": "Red Ale",
+        "description": "fine Red Ale from Pirates",
+        "price": "15.80",
+        "imgUrl": "https://cdn.awsli.com.br/600x450/189/189059/produto/27509948/f7da7b96db.jpg",
+        "category": "",
+        "id": "16"
+
+    }
+]
+
